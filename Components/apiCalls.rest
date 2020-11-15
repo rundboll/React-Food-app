@@ -1,0 +1,1 @@
+http://193.10.202.70/FoodTemp/Api/foodList?foodName=Beef&appKey=GreenDiamondSlope
